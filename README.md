@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mi1</h1>
-- 🔭 I’m currently working as a **Cloud Engineer**
+<h1 align="center">Hi 👋, I'm Mi1</h1>
+🔭 I’m currently working as a **Cloud Engineer**
 
 <p align="left">
 </p>
